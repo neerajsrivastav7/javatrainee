@@ -1,0 +1,6 @@
+Abstract factory pattern:
+many more abstract classes 
+in any project we use those factory classes to desine our concreate class model
+abstraction can acheive by interface and abstract classes only 
+it forms of the creational pattern and gives us the best approach to create object from that factory
+for example a factory of all sql classes like odbc,opeb db mysql ,mssql form a factory to give us connection to the database
